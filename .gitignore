@@ -1,0 +1,14 @@
+
+*.ini
+main/Functions/acc_calc_fnc/slprj/KITTdyn_acc.slxc
+main/Functions/acc_calc_fnc/slprj/sim/varcache/KITTdyn_acc/checksumOfCache.mat
+main/Functions/acc_calc_fnc/slprj/sim/varcache/KITTdyn_acc/tmwinternal/simulink_cache.xml
+main/Functions/acc_calc_fnc/slprj/sim/varcache/KITTdyn_acc/varInfo.mat
+*.slxc
+main/Functions/brake_calc_fnc/slprj/sim/varcache/KITTdyn_brake/checksumOfCache.mat
+*.xml
+main/Functions/brake_calc_fnc/slprj/sim/varcache/KITTdyn_brake/varInfo.mat
+*.prj
+*.png
+*.asv
+*.mlappinstall
