@@ -12,3 +12,6 @@ main/Functions/brake_calc_fnc/slprj/sim/varcache/KITTdyn_brake/varInfo.mat
 *.png
 *.asv
 *.mlappinstall
+*.savepath
+*.txt
+*.zip
